@@ -1,4 +1,5 @@
 #include "LDPC.h"
+#include "nrLDPCTables.cpp"
 using namespace  std;
 
 nrLDPC::nrLDPC(size_t infoLen, double codeRate)
