@@ -1,6 +1,6 @@
 #include "LDPC.h"
 #include "nrLDPCTables.cpp"
-
+#include <cmath>
 using namespace  std;
 
 nrLDPC::nrLDPC(size_t infoLen, double codeRate)
