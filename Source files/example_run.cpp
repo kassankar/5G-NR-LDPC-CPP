@@ -1,4 +1,5 @@
 #include "LDPC.h"
+#include "LDPC.cpp"
 #include <iostream>
 #include <random>
 #include <chrono> //timing
